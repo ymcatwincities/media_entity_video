@@ -1,5 +1,5 @@
 {
-  "name": "drupal/media_entity_video",
+  "name": "ymcatwincities/media_entity_video",
   "type": "drupal-module",
   "description": "Local video files integration for Drupal core Media module.",
   "keywords": ["Drupal", "media", "video"],
@@ -22,8 +22,5 @@
       "type": "composer",
       "url": "https://packages.drupal.org/8"
     }
-  ],
-  "require": {
-    "drupal/core": "^8.4"
-  }
+  ]
 }
